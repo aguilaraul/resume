@@ -14,3 +14,6 @@
 **Programming Languages:** Java, C++, HTML, CSS, PHP, MySQL
 
 **Forgein Languages:** Spanish, German
+
+### Projects
+[LemonadeStand](https://github.com/aguilaraul/lemonadestand)
